@@ -1,3 +1,4 @@
 # apnaCollge
 just for practice
-author Noman Khan
+<br>
+author Noman Laptop
